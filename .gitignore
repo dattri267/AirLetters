@@ -1,0 +1,25 @@
+# data and large generated files
+data/
+data_synth/
+*.npz
+videos/
+*.mp4
+models/
+# local environments and caches
+.venv/
+.dist/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# working copies and personal files
+*.zip
+paper_files/
+live_log.csv
+# development checkpoints (keep only the frozen final ones)
+results/ckpt/
+results_dev/ckpt/
+# exceptions
+!docs/demo_video.mp4
+/ckpt/
+/figures/cnn_xy/
+/figures/cnn_xy_hand/
