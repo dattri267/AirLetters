@@ -1,4 +1,4 @@
-# Lightweight Hand-Landmark Trajectory Classification on AirLetters
+# Recognising Air-Written Characters from Hand-Landmark Trajectories: A Lightweight Baseline on AirLetters
 
 Recognising characters drawn in the air using an ordinary RGB camera, **MediaPipe hand landmarks, and lightweight neural networks** instead of computationally expensive video models.
 
